@@ -1,0 +1,72 @@
+.container-geral-card {
+    height: 100%;
+    background: url('../../assets/bg-cardapio.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+.container-cardapio {
+    padding-top: 40px;
+    margin: 0 20px;
+    color: black;
+}
+.brotinho-info {
+    color: #000;
+}
+.videofooter-fixed {
+    position: absolute;
+    z-index: -1000;
+    width: 100%;
+}
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.flex-produtos {
+    box-shadow: 0px 0px 20px 0.5px rgba(0, 0, 0, 0.466);
+    width: 25em;
+    height: 13em;
+}
+.img-produto {
+    padding-top: 14px;
+    text-align: center;
+    background: #010101;
+}
+.img-produto > h4 {
+    color: white;
+    text-align: center;
+}
+.desc-produto {
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    background-color: #E3001B;
+}
+.qtde-produto {
+    text-align: center;
+    border: none;
+    border-radius: 7px;
+    margin-top: 10px;
+    width: 50%;
+}
+.btn-add {
+    background-color: rgb(98, 173, 91);
+    margin-left: 15px;
+    border: none;
+    border-radius: 7px;
+    margin-top: 10px;
+    width: 30%;
+}
+input[type=number]::-webkit-inner-spin-button { 
+  all: unset; 
+  min-width: 21px;
+  min-height: 45px;
+  margin: 17px;
+  padding: 0px;
+  background-image: 
+  linear-gradient(to top, transparent 0px, transparent 16px, #fff 16px, #fff 26px, transparent 26px, transparent 35px, #000 35px,#000 36px,transparent 36px, transparent 40px),
+  linear-gradient(to right, transparent 0px, transparent 10px, #000 10px, #000 11px, transparent 11px, transparent 21px);
+  transform: rotate(90deg) scale(0.8, 0.9);
+  cursor:pointer;
+}

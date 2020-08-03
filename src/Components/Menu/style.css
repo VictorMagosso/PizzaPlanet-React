@@ -1,0 +1,69 @@
+.video {
+    position: absolute;
+    z-index: -1000;
+    width: 100%;
+}
+.logo {
+    animation: direita-esquerda 3s;
+    margin-top: 37px;
+}
+.tema-nav {
+    color: white;
+    font-size: 4em;
+    display: inline;
+    position: absolute;
+    top: 80px;
+}
+.menu {
+    position: absolute;
+    right: 170px;
+    top: 240px;
+}
+.menu > li > a{
+    border: 1px solid rgb(129, 61, 61);
+    font-size: 2em;
+    color: white;
+    background-color: #E3001B;
+}
+.menu > li > a:hover{
+    color: #E3001B;
+    background-color: white;
+}  
+@media only screen and (max-width: 419.98px) {
+    .menu {
+        top: 200px;
+    }
+    .menu > li > a{
+        font-size: 2em;
+        color: white;
+    }
+}
+@media only screen and (max-width: 700px) {
+    .tema-nav {
+        top: 0;
+        font-size: 2em;
+        padding: 10px;
+    }
+    .menu {
+        bottom: 0;
+        right: 0;
+    }   
+    .menu > li > a{
+        font-size: 1.4em;
+        text-align: center;
+        width: 33.33vw;
+    } 
+  }
+@media only screen and (max-width: 900px) {
+
+  }
+  
+  @keyframes direita-esquerda {
+  0% {
+  transform: translateX(1000px);
+  }
+  100% {
+  transform: translateX(0px);
+  }
+  }
+ 

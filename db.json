@@ -1,0 +1,89 @@
+{
+  "salgadas": [
+    {
+      "id": 1,
+      "sabor": "Portuguesa",
+      "descricao": "Ovo cozido, cebola e calabresa em tiras",
+      "valor": "R$ 49,90",
+      "imagem": "https://pizzariamamaclara.com.br/st/image/cache/catalog/9_portuguesa-500x500.png"
+    },
+    {
+      "id": 2,
+      "sabor": "Francesa",
+      "descricao": "Ovo cozido, pimentão, cebola e calabresa em rodelas",
+      "valor": "R$ 49,90",
+      "imagem": "https://telepizzaaltashoras.com.br/wp-content/uploads/2017/11/Portuguesa.png"
+    },
+    {
+      "id": 3,
+      "sabor": "4 queijos",
+      "descricao": "Mussarela, parmesão, gorgonzola, queijo brando e catupiry",
+      "valor": "R$ 45,90",
+      "imagem": "https://static.expressodelivery.com.br/imagens/produtos/1831/180/Expresso-Delivery_06c135f170ae8a8766184699b56f1829.png"
+    },
+    {
+      "id": 4,
+      "sabor": "Pepperoni",
+      "descricao": "Mussarela, mostarda e pepperoni em rodelas",
+      "valor": "R$ 49,90",
+      "imagem": "https://multarte.com.br/wp-content/uploads/2019/03/pizza-png-fundo-transparente20.png"
+    },
+    {
+      "id": 5,
+      "sabor": "Marguerita",
+      "descricao": "Mussarela, toma em rodela e rúcula",
+      "valor": "R$ 42,90",
+      "imagem": "https://www.pizzarialenhador.com.br/assets/img/pizza.png"
+    },
+    {
+      "id": 6,
+      "sabor": "Tomate Seco",
+      "descricao": "Mussarela gratinada e tomate seco em rodela",
+      "valor": "R$ 45,90",
+      "imagem": "https://alcapizza.com.br/wp-content/uploads/2018/02/classica.png"
+    },
+    {
+      "id": 7,
+      "sabor": "Lombo",
+      "descricao": "Mussarela gratinada, lombo em rodelas finas e catupiry",
+      "valor": "R$ 49,90",
+      "imagem": "https://pizzariamamaclara.com.br/st/image/cache/catalog/9_portuguesa-500x500.png"
+    },
+    {
+      "id": 8,
+      "sabor": "Atum",
+      "descricao": "Atum ralado, cebola e mussarela gratinada",
+      "valor": "R$ 42,90",
+      "imagem": "https://www.americapizza.com.br/wp-content/uploads/2014/02/atum.png"
+    },
+    {
+      "id": 9,
+      "sabor": "Alho Poró",
+      "descricao": "Alho poró, cebola e mussarela gratinada",
+      "valor": "R$ 49,90",
+      "imagem": "https://armazemdapizza.com.br/wp-content/uploads/2016/09/37-Portuguesa.png"
+    },
+    {
+      "id": 10,
+      "sabor": "Strogonoff",
+      "descricao": "Frango em pedaços, batata palha e catupiry",
+      "valor": "R$ 49,90",
+      "imagem": "https://pizzaparma.com.br/image/cache/catalog/produtos/strogonoff-350x350.png"
+    },
+    {
+      "id": 11,
+      "sabor": "Bacon",
+      "descricao": "Bacon e tiras e mussarela gratinada ou catupiry",
+      "valor": "R$ 42,90",
+      "imagem": "https://www.donguilherme.com.br/imagens/produto/22-strogonof-file-53605.png"
+    },
+    {
+      "id": 12,
+      "sabor": "Nordestina",
+      "descricao": "Carne seca, cebola, catupiry, palmito e pimenta",
+      "valor": "R$ 47,90",
+      "imagem": "https://www.pizzariadp.com.br/imagens_prod/3271Nordestina.png"
+    }
+    
+  ]
+}
