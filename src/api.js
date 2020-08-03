@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: '../db.json'
+    baseURL: 'http://localhost:8080/salgadas'
 });
 
 export default api;
