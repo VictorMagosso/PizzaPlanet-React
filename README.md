@@ -2,4 +2,3 @@
 
 ### db com json - Bootstrap - Fontawesome
 
-### Visite o site => https://pizza-planet-react.vercel.app/
